@@ -507,3 +507,5 @@ Before moving on, explain without notes:
 - Spring Boot — Externalized Configuration
 - Spring Boot — Profiles
 - Spring Boot — Auto-configuration
+
+**Module 1 is frozen.**
